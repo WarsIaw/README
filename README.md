@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][discord]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][memejulien]
 
 <br />
 <br />
@@ -31,7 +31,8 @@
 
 [twitter]: https://twitter.com/IocalJapanese
 [youtube]: https://www.youtube.com/channel/UCmmYlMbP34KGQx2BOdSG87g
-[discord]: https://discord.gg/RCuRNnzK8g
+[memejulien]: https://discord.gg/RCuRNnzK8g
+[discord]: https://discord.gg/JxvyhCMnWQ
 [reddit]: https://www.reddit.com/user/WarsIaw
 [spotify]: https://open.spotify.com/user/3wmtk4gqe2bkzqg00jun6c3q9
 [steam]: https://steamcommunity.com/id/Warslaw/
