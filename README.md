@@ -1,4 +1,4 @@
-### Hi there, I'm David - aka Warslaw 👋
+### Hi there, I'm Nishimura - aka Warslaw 👋
 
 ## I'm a Gamer, Student and Developer!
 
